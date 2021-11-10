@@ -1,0 +1,95 @@
+{
+  "Saturday": {
+    "6:00": "Taiful",
+    "8:30": "Study",
+    "10:15": "Computer",
+    "12:30": "Bath",
+
+    "13:40": "Rumman",
+    "16:20": "Sleep",
+    "18:30": "Study",
+    "22:00": "Computer",
+    "0:18": "Exercise"
+  },
+
+  "Monday":{
+    "6:00": "Taiful",
+    "8:30": "Study",
+    "10:15": "Computer",
+    "12:30": "Bath",
+
+    "13:40": "Rumman",
+    "16:20": "Sleep",
+    "18:30": "Study",
+    "22:00": "Computer",
+    "00:00": "Exercise"
+  },
+
+  "Wednesday":{
+    "6:00": "Taiful",
+    "8:30": "Study",
+    "10:15": "Computer",
+    "12:30": "Bath",
+
+    "13:40": "Rumman",
+    "16:20": "Sleep",
+    "18:30": "Study",
+    "22:00": "Computer",
+    "00:00": "Exercise"
+  },
+
+
+
+  "Sunday":{
+    "8:15": "Weak up",
+    "8:30": "study",
+    "10:15": "Computer",
+    "11:30": "Bath",
+
+    "15:30": "take rest",
+    "16:30": "Ranga",
+    "20:00": "study",
+    "22:15": "Computer",
+    "00:00": "Exercise"
+  },
+
+  "Tuesday":{
+    "8:15": "Weak up",
+    "8:30": "study",
+    "10:15": "Computer",
+    "11:30": "Bath",
+
+    "15:30": "take rest",
+    "16:30": "Ranga",
+    "20:00": "study",
+    "22:15": "Computer",
+    "00:00": "Exercise"
+  },
+
+  "Thursday":{
+    "8:15": "Weak up",
+    "8:30": "study",
+    "10:15": "Computer",
+    "11:30": "Bath",
+
+    "15:30": "take rest",
+    "16:30": "Ranga",
+    "20:00": "study",
+    "22:15": "Computer",
+    "00:00": "Exercise",
+    "22:5": "Learn"
+  },
+
+  "Friday":{
+    "8:30": "Weak up",
+    "8:45": "Study",
+    "10:00": "Computer",
+    "11:20": "Take Bath",
+
+    "13:00": "prayer",
+    "18:30": "study",
+    "22:00": "Computer",
+    "00:00": "Exercise"
+  }
+
+}
